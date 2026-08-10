@@ -1,25 +1,15 @@
-# Cross Plataform
+# Aula 02 — Iniciando o Projeto Flutter
 
-Repositório das aulas de **Cross Platform Application Development** (FIAP).
+Sistema de Marcação de Consultas: estrutura inicial do app Flutter.
 
-Cada aula fica em uma **branch própria**. A `main` só concentra este índice.
+## Estrutura
 
-## Branches
-
-| Branch | Aula | Título | Conteúdo |
-|--------|------|--------|----------|
-| [`Aula-01`](https://github.com/JuanCunhaa/cross-plataform/tree/Aula-01) | 01 | Introdução ao Flutter e tipagem em Dart | Exemplos + 10 exercícios de tipos de dados em Dart |
-| [`Aula-02`](https://github.com/JuanCunhaa/cross-plataform/tree/Aula-02) | 02 | Iniciando o Projeto Flutter | Projeto Flutter + arquitetura base do Sistema de Consultas |
-
-## Como navegar
-
-```bash
-git clone https://github.com/JuanCunhaa/cross-plataform.git
-cd cross-plataform
-git checkout Aula-02
 ```
-
-## Convenção
-
-- Nova aula → nova branch (`Aula-02`, `Aula-03`, …)
-- Ao criar a branch, atualizar esta tabela na `main`
+lib/
+├── main.dart                 → inicia o app
+└── src/
+    ├── components/           → widgets reutilizáveis (próxima aula)
+    ├── screens/              → HomeScreen
+    ├── styles/               → AppColors
+    └── models/               → Consulta, Medico, Paciente...
+```
