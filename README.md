@@ -1,24 +1,17 @@
-# Cross Plataform
+# Aula 01 — Introdução ao Flutter e tipagem em Dart
 
-Repositório das aulas de **Cross Platform Application Development** (FIAP).
+Base lógica em Dart para o futuro Sistema de Marcação de Consultas em Flutter.
 
-Cada aula fica em uma **branch própria**. A `main` só concentra este índice.
+## Conteúdo
 
-## Branches
+- Exemplos dos tipos de dados (`exemplo_01` … `exemplo_16`)
+- 10 exercícios de fixação (`exercicio_01` … `exercicio_10`)
 
-| Branch | Aula | Título | Conteúdo |
-|--------|------|--------|----------|
-| [`Aula-01`](https://github.com/JuanCunhaa/cross-plataform/tree/Aula-01) | 01 | Introdução ao Flutter e tipagem em Dart | Exemplos + 10 exercícios de tipos de dados em Dart |
-
-## Como navegar
+## Como rodar
 
 ```bash
-git clone https://github.com/JuanCunhaa/cross-plataform.git
-cd cross-plataform
-git checkout Aula-01
+dart Aula-01/exercicios-dart/00_primeiro_programa.dart
+dart Aula-01/exercicios-dart/exercicio_01_string.dart
 ```
 
-## Convenção
-
-- Nova aula → nova branch (`Aula-02`, `Aula-03`, …)
-- Ao criar a branch, atualizar esta tabela na `main`
+Requer Flutter/Dart no PATH (`dart --version`).
