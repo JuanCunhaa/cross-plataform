@@ -2,6 +2,18 @@
 
 Repositório das aulas de **Cross Platform Application Development** (FIAP).
 
+## Grupo
+
+**Grupo 16 — 2CCR**
+
+| Nome | RM |
+|------|-----|
+| Caio Cordeiro Salgado | 565400 |
+| Hector van Tol Taver | 562881 |
+| Juan Gigliotti da Cunha | 563253 |
+| Rafael Alves da Silva | 561878 |
+| Raissa Fabricio Lima | 563772 |
+
 Cada aula fica em uma **branch própria**. A `main` só concentra este índice.
 
 ## Branches
