@@ -10,8 +10,8 @@ Base lógica em Dart para o futuro Sistema de Marcação de Consultas em Flutter
 ## Como rodar
 
 ```bash
-dart Aula-01/exercicios-dart/00_primeiro_programa.dart
-dart Aula-01/exercicios-dart/exercicio_01_string.dart
+dart exercicios-dart/00_primeiro_programa.dart
+dart exercicios-dart/exercicio_01_string.dart
 ```
 
 Requer Flutter/Dart no PATH (`dart --version`).
