@@ -30,7 +30,7 @@ Cada aula fica em uma **branch própria**. A `main` só concentra este índice.
 ```bash
 git clone https://github.com/GP16-2CCR/cross-plataform.git
 cd cross-plataform
-git checkout Aula-03
+git checkout Aula-04
 ```
 
 ## Convenção
