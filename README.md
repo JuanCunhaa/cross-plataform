@@ -23,6 +23,7 @@ Cada aula fica em uma **branch própria**. A `main` só concentra este índice.
 | [`Aula-01`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-01) | 01 | Introdução ao Flutter e tipagem em Dart | Exemplos + 10 exercícios de tipos de dados em Dart |
 | [`Aula-02`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-02) | 02 | Iniciando o Projeto Flutter | Projeto Flutter + arquitetura base do Sistema de Consultas |
 | [`Aula-03`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-03) | 03 | Abrindo o capô do Flutter | Leitura da base: fluxo, widgets, models e styles |
+| [`Aula-04`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-04) | 04 | Implementação do card e estados | Criaçado do card de consulta com os botões confirmar e cancelar |
 
 ## Como navegar
 
